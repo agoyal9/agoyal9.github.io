@@ -12,7 +12,7 @@ Hi, I'm **Ashmi Goyal**.
 I'm a Computer Science undergraduate at the University of Houston, currently interested in Software Engineering and Data-related roles.
 
 ## Education
-**Bachelor of Science in Computer Science**
+**Bachelor of Science in Computer Science**<br>
 University of Houston
 
 ## Links

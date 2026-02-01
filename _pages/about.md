@@ -18,4 +18,3 @@ University of Houston
 ## Links
 - Department: https://www.cs.uh.edu
 - LinkedIn: https://www.linkedin.com/in/ashmigoyal
-- Resume: [Download PDF](/Ashmi_Goyal_Resume.pdf)

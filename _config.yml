@@ -25,11 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ashmi Goyal"
-  pronouns         : # example: "she/her"  
+  pronouns         : "She/her"  
   bio              : "Computer Science undergraduate at the University of Houston"
   location         : "Houston, TX"
   employer         : "University of Houston"
-  uri              : # URL
   email            : "agoyal9@cougarnet.uh.edu" 
 
   # Repositories and software development

@@ -10,9 +10,6 @@
 main:          
   - title: "About"
     url: /
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+  
   - title: "Resume"
-    url: /resume/
+    url: /Ashmi_Goyal_Resume.pdf/

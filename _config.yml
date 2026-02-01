@@ -23,7 +23,7 @@ repository               : "agoyal9/agoyal9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Ashmi Goyal"
   pronouns         : "She/her"  
   bio              : "Computer Science undergraduate at the University of Houston"
